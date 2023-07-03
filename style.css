@@ -90,6 +90,7 @@ nav ul{
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     font-weight: bolder;
+    color: #911d91;
 }
 
 .line{
@@ -116,4 +117,7 @@ nav ul{
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);
     }
+}
+.title{
+    color: rgb(125, 175, 175);
 }
